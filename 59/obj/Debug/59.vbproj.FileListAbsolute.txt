@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\59\59\obj\Debug\59.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\59\59\obj\Debug\_59.Form1.resources
+C:\Users\user\source\repos\59\59\obj\Debug\_59.Resources.resources
+C:\Users\user\source\repos\59\59\obj\Debug\59.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\59\59\obj\Debug\59.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\59\59\bin\Debug\59.exe.config
+C:\Users\user\source\repos\59\59\bin\Debug\59.exe
+C:\Users\user\source\repos\59\59\bin\Debug\59.pdb
+C:\Users\user\source\repos\59\59\bin\Debug\59.xml
+C:\Users\user\source\repos\59\59\obj\Debug\59.exe
+C:\Users\user\source\repos\59\59\obj\Debug\59.xml
+C:\Users\user\source\repos\59\59\obj\Debug\59.pdb
